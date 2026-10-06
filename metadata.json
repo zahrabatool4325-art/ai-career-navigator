@@ -1,0 +1,7 @@
+{
+  "name": "AI Career Navigator for Students",
+  "description": "Interactive career discovery and roadmap platform helping students find their ideal path in Artificial Intelligence based on interests, skills, and goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
